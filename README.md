@@ -13,3 +13,10 @@
 Документация по scikit-learn:http://scikit-learn.org/stable/
 
 Подробнее про параметрические и непараметрические методы: https://medium.com/@zaidalissa/what-are-parametric-vs-nonparametric-models-8bfa20726f4d
+
+
+
+KAGGLE:
+
+Дота: https://www.kaggle.com/c/dota-science/data
+Титаник: https://www.kaggle.com/c/titanic
