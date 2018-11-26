@@ -1,5 +1,23 @@
-# ML_course
-Математический анализ данных и машинное обучение.
+# Математический анализ данных и машинное обучение.
+
+
+======Модуль 1======
+
+Лекция:
+
+- Обзор методов машинного обучения
+- Постановка задачи
+- Переобучение, кросс-валидация
+- Линейная регрессия
+
+Семинар:
+
+- Python
+- NumPy
+- Pandas
+- Линейная регрессия
+
+Домашнее задание:https://www.kaggle.com/c/boston-dataset
 
 
 ======Полезные материалы======
@@ -13,13 +31,3 @@
 Документация по scikit-learn:http://scikit-learn.org/stable/
 
 Подробнее про параметрические и непараметрические методы: https://medium.com/@zaidalissa/what-are-parametric-vs-nonparametric-models-8bfa20726f4d
-
-
-
-KAGGLE:
-
-Дота: https://www.kaggle.com/c/dota-science/data
-
-Титаник: https://www.kaggle.com/c/titanic
-
-Бостон: https://www.kaggle.com/c/boston-dataset
