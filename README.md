@@ -22,6 +22,8 @@
 
 ======Полезные материалы======
 
+Конспекты лекций по машинному обучению Евгения Соколова: https://github.com/esokolov/ml-course-hse/tree/master/2018-fall/lecture-notes
+
 Сайт с огромным количеством материалов, который можно использовать как справочник: http://www.machinelearning.ru
 
 Туториалы по основным библиотекам Python (к сожалению, без scikit-learn): http://www.inp.nsk.su/~grozin/python/
