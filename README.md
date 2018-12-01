@@ -17,10 +17,13 @@
 - Pandas
 - Линейная регрессия
 
-Домашнее задание:https://www.kaggle.com/c/boston-dataset
+Домашнее задание: https://www.kaggle.com/c/boston-dataset
 
 
 ======Полезные материалы======
+
+
+Ведомость по курсу: https://docs.google.com/spreadsheets/d/1GgrhUf4gNqFDMtSMdv6yDet74jkd0GIfoP1wjow5dXY/edit?usp=sharing
 
 Конспекты лекций по машинному обучению Евгения Соколова: https://github.com/esokolov/ml-course-hse/tree/master/2018-fall/lecture-notes
 
