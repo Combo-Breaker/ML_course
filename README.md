@@ -1,7 +1,15 @@
 # Математический анализ данных и машинное обучение.
 
+[Ведомость](https://docs.google.com/spreadsheets/d/1GgrhUf4gNqFDMtSMdv6yDet74jkd0GIfoP1wjow5dXY/edit?usp=sharing)
 
-======Модуль 1======
+__Контакты:__
+
+почта     impecopeco@gmail.com
+
+телеграм  @Combo_Breaker
+
+
+__======Модуль 1======__
 
 Лекция:
 
@@ -19,11 +27,27 @@
 
 Домашнее задание: https://www.kaggle.com/c/boston-dataset
 
+__======Модуль 2======__
+
+Лекция:
+
+- Задача бинарной классификации
+- Метрики качества классификации
+- Многоклассовая классификация, классификация с пересекающимися классами 
+- Алгоритмы классификации: логистическая регрессия, SVM, k-NN.
+
+Семинар:
+
+- Работа с категориальными признаками, препроцессинг данных
+- Логистическая регрессия
+- SVM
+- k-NN
+
+
+Домашнее задание: https://www.kaggle.com/c/bank-issues-1510/
+
 
 ======Полезные материалы======
-
-
-Ведомость по курсу: https://docs.google.com/spreadsheets/d/1GgrhUf4gNqFDMtSMdv6yDet74jkd0GIfoP1wjow5dXY/edit?usp=sharing
 
 Конспекты лекций по машинному обучению Евгения Соколова: https://github.com/esokolov/ml-course-hse/tree/master/2018-fall/lecture-notes
 
