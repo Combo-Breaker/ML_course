@@ -53,7 +53,7 @@ __======Модуль 2======__
 
 Сайт с огромным количеством материалов, который можно использовать как справочник: http://www.machinelearning.ru
 
-Довольно подробный курс по линейной алгебре на платформе Coursera: https://www.coursera.org/learn/algebra-lineynaya?
+Довольно подробный курс по линейной алгебре на платформе Coursera: https://www.coursera.org/learn/algebra-lineynaya
 
 Туториалы по основным библиотекам Python (к сожалению, без scikit-learn): http://www.inp.nsk.su/~grozin/python/
 
