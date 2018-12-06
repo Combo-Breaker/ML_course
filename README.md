@@ -46,7 +46,7 @@ __======Модуль 2======__
 
 Домашнее задание: https://www.kaggle.com/c/bank-issues-1510/
 
-Данные для ДЗ можно скачать архивом https://github.com/Combo-Breaker/ML_course/blob/master/Module%202/all.zip здесь.
+Данные для ДЗ можно скачать архивом: https://github.com/Combo-Breaker/ML_course/blob/master/Module%202/all.zip
 
 ======Полезные материалы======
 
