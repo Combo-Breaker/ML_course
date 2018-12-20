@@ -2,6 +2,17 @@
 
 [Ведомость](https://docs.google.com/spreadsheets/d/1GgrhUf4gNqFDMtSMdv6yDet74jkd0GIfoP1wjow5dXY/edit?usp=sharing)
 
+
+__Темы для проектов:__
+
+1. https://www.kaggle.com/c/dota-science/
+2. https://www.kaggle.com/terminus7/pokemon-challenge
+3. https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles
+4. https://www.kaggle.com/mehdidag/black-friday
+5. https://www.kaggle.com/c/titanic
+6. https://www.kaggle.com/c/data-science-london-scikit-learn
+7. https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
 __Контакты:__
 
 почта     impecopeco@gmail.com
